@@ -1,6 +1,6 @@
 .. image:: http://docs.celeryproject.org/en/latest/_images/celery-banner-small.png
 
-|build-status| |license| |wheel| |pyversion| |pyimp|
+|build-status| |license| |wheel| |pyversion| |pyimp| |maintainability|
 
 :Version: 4.0.2s (latentcall)
 :Web: http://celeryproject.org/
@@ -456,3 +456,6 @@ file in the top distribution directory for the full license text.
     :alt: Support Python implementations.
     :target: http://pypi.python.org/pypi/celery/
 
+.. |maintainability| image:: https://api.codeclimate.com/v1/badges/3f870daf97fa23fd3545/maintainability
+   :target: https://codeclimate.com/github/Shoobx/celery/maintainability
+   :alt: Maintainability
